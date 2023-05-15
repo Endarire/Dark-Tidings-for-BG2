@@ -1,7 +1,7 @@
 # Dark Tidings for BG2
 Acifer's Dark Tidings for BGII: Throne of Bhaal, Baldur's Gate II: Enhanced Edition, and EET (Enhanced Edition Trilogy).
 
-Forum: [BeamDog]([url](https://forums.beamdog.com/discussion/87380/mod-dark-tidings-a-quest-mod-for-bg2/p1))
+Forum: [BeamDog](https://forums.beamdog.com/discussion/87380/mod-dark-tidings-a-quest-mod-for-bg2/p1)
 
 ![image](https://github.com/Endarire/Dark-Tidings-for-BG2/assets/10439725/3db009ab-5c3f-48a1-8728-e6bdaf2c20e5)
 
@@ -31,7 +31,7 @@ Dark Tidings is compatible with the following versions of Baldur's Gate II:
 - Baldur's Gate Trilogy (BGT)
 - Enhanced Edition Trilogy (EET) - not tested yet
 
-Please note that there are different installation requirements for the different versions of the game. See the PDF documentation for details.
+Please note that there are different installation requirements for the different versions of the game. See the [PDF documentation](https://github.com/Endarire/Dark-Tidings-for-BG2/blob/main/Dark_Tidings_Readme.pdf) for details.
 
 **Credits**
 - Acifer: Mod design, Graphics
