@@ -34,11 +34,18 @@ Dark Tidings is compatible with the following versions of Baldur's Gate II:
 Please note that there are different installation requirements for the different versions of the game. See the PDF documentation for details.
 
 **Credits**
+
 Acifer: Mod design, Graphics
+
 Sirick: English version
+
 Laura Hirsbrunner: Readme Microsoft Word template
+
 Endarire: GitHub uploading and prettification
 
+
 Special Thanks
+
 LavaDelVortel: Additional help & ideas, Beta testing
+
 Morywen: Beta testing
