@@ -1,0 +1,5 @@
+DARK TIDINGS
+VERSION HISTORY:
+
+Version 1.1 - added a full English translation - thank you Sirick!
+Version 1.0 - Initial release
